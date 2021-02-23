@@ -26,5 +26,6 @@
  * ```
  */
 
+import "@fontsource/roboto"
 import "./index.css";
 import "./main";
